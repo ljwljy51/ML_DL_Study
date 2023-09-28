@@ -5,7 +5,7 @@ for Machine Learning, Deep Learning Study
 
 
 ---
-## UNet_Segmentation
+## UNet_pytorch
 reference
 : https://www.youtube.com/@hanyoseob/videos  
 files: https://github.com/ljwljy51/ML_DL_Study/tree/main/UNet_pytorch
