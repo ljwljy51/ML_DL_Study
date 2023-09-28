@@ -43,14 +43,14 @@ run_unet.ipynb 파일 참조
 ### train.py
 - run_unet.ipynb를 통해 사용법 참고. train과 evaluation이 가능하도록 함
 ```
-!python3 "/content/drive/MyDrive/UNet_segmentation/train.py" \
---lr 1e-3 --batch_size 4 --num_epoch 15 \
---data_dir "/content/drive/MyDrive/UNet_segmentation/data" \
---ckpt_dir "/content/drive/MyDrive/UNet_segmentation/checkpoint" \
---log_dir "/content/drive/MyDrive/UNet_segmentation/log" \
---result_dir "/content/drive/MyDrive/UNet_segmentation/result" \
---mode "train" \
---train_continue "off"
+!python3 "train.py 경로" \
+--lr learning_rate --batch_size batch_size --num_epoch num_epoch \
+--data_dir "data 디렉토리 경로" \
+--ckpt_dir "checkpoint 저장될 경로" \
+--log_dir "log 저장될 경로(tensorboard 확인 위함)" \
+--result_dir "test 결과 저장될 경로" \
+--mode "train / test" \
+--train_continue "on / off"
 ```
 
 ### util.py
