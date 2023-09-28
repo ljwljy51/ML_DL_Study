@@ -16,4 +16,9 @@ posting: https://velog.io/@ljwljy51/Segmentation-Dataset-%ED%99%9C%EC%9A%A9-%EB%
 ### 2. UNet 논문 리뷰
 posting: https://velog.io/@ljwljy51/UNet-%EA%B0%84%EB%8B%A8-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0
 
+### 3. UNet 모델 구현 및 학습
+posting: https://velog.io/@ljwljy51/UNet-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84-%EB%B0%8F-%ED%95%99%EC%8A%B5  
+code: https://github.com/ljwljy51/ML_DL_Study/tree/main/UNet_segmentation  
+
+---
 updating...
