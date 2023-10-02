@@ -1,4 +1,4 @@
-# UNet_pytorch
+# Image_Regression
 reference
 : https://www.youtube.com/@hanyoseob/videos  
 </br>
