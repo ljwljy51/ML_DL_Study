@@ -25,8 +25,8 @@ code: https://github.com/ljwljy51/ML_DL_Study/tree/main/UNet_pytorch
 
 reference
 : https://www.youtube.com/@hanyoseob/videos  
-files: https://github.com/ljwljy51/ML_DL_Study/tree/main/UNet_pytorch  
-posting: 
+files: https://github.com/ljwljy51/ML_DL_Study/tree/main/Image_regression  
+posting: https://velog.io/@ljwljy51/Image-Regression-framework-%EA%B5%AC%EC%B6%95
 
 ---
 updating..
