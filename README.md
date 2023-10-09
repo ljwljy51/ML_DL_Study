@@ -34,7 +34,7 @@ posting: https://velog.io/@ljwljy51/Image-Regression-framework-%EA%B5%AC%EC%B6%9
 
 reference
 : https://www.youtube.com/@hanyoseob/videos  
-files: https://github.com/ljwljy51/ML_DL_Study/tree/main/SRResNet_pytorch
+files: https://github.com/ljwljy51/ML_DL_Study/tree/main/SRResNet_pytorch  
 posting: https://velog.io/@ljwljy51/ResNet-SRResNet-%EA%B5%AC%ED%98%84-%EB%B0%8F-%ED%95%99%EC%8A%B5
 
 ---
