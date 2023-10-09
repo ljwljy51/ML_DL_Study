@@ -21,7 +21,7 @@ posting: https://velog.io/@ljwljy51/UNet-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84-%
 code: https://github.com/ljwljy51/ML_DL_Study/tree/main/UNet_pytorch
 
 ---
-## Image Regression
+## Image Regression: Inpainting, Denoising, Super-Resolution
 
 reference
 : https://www.youtube.com/@hanyoseob/videos  
