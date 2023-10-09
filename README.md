@@ -29,4 +29,13 @@ files: https://github.com/ljwljy51/ML_DL_Study/tree/main/Image_regression
 posting: https://velog.io/@ljwljy51/Image-Regression-framework-%EA%B5%AC%EC%B6%95
 
 ---
-updating..
+
+## SRResNet_pytorch: Super-Resolution task with ResNet, SRResNet
+
+reference
+: https://www.youtube.com/@hanyoseob/videos  
+files: https://github.com/ljwljy51/ML_DL_Study/tree/main/Image_regression  
+posting: https://velog.io/@ljwljy51/ResNet-SRResNet-%EA%B5%AC%ED%98%84-%EB%B0%8F-%ED%95%99%EC%8A%B5
+
+---
+updating...
