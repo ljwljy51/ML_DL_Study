@@ -1,10 +1,12 @@
 # ML_DL_Study
 for Machine Learning, Deep Learning Study
 </br>
+</br>
 
+</br>
 
+# DL_Framework
 
----
 ## UNet_pytorch
 reference
 : https://www.youtube.com/@hanyoseob/videos  
@@ -36,6 +38,25 @@ reference
 : https://www.youtube.com/@hanyoseob/videos  
 files: https://github.com/ljwljy51/ML_DL_Study/tree/main/SRResNet_pytorch  
 posting: https://velog.io/@ljwljy51/ResNet-SRResNet-%EA%B5%AC%ED%98%84-%EB%B0%8F-%ED%95%99%EC%8A%B5
+
+---
+updating...
+
+
+</br>
+</br>
+</br>
+
+# ML_Study
+
+## Postings
+### 1. Decision Tree Model
+reference:  
+https://www.youtube.com/watch?v=xki7zQDf74I  
+https://www.youtube.com/watch?v=2Rd4AqmLjfU&t=2s  
+posting:
+https://velog.io/@ljwljy51/Decision-Tree-Model
+
 
 ---
 updating...
