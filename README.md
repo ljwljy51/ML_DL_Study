@@ -59,4 +59,11 @@ https://velog.io/@ljwljy51/Decision-Tree-Model
 
 
 ---
+### 2. Random Forest Model
+
+reference: https://www.youtube.com/watch?v=lIT5-piVtRw&t=215s  
+posting: https://velog.io/@ljwljy51/Random-Forest-Model
+
+---
+
 updating...
