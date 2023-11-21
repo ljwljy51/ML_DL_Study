@@ -67,3 +67,10 @@ posting: https://velog.io/@ljwljy51/Random-Forest-Model
 ---
 
 updating...
+
+</br>
+</br>
+</br>
+
+# DACON
+updating...
