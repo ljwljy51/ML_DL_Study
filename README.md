@@ -72,7 +72,7 @@ posting: https://velog.io/@ljwljy51/MiniMax-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
 
 ---
 
-### 4. Minimax algorithm
+### 4. CatBoost
 
 reference: https://www.youtube.com/watch?v=2Yi_Jse_7JQ&t=23s  
 posting: https://velog.io/@ljwljy51/CatBoost-%EC%A0%95%EB%A6%AC
