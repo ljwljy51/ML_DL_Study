@@ -65,6 +65,19 @@ reference: https://www.youtube.com/watch?v=lIT5-piVtRw&t=215s
 posting: https://velog.io/@ljwljy51/Random-Forest-Model
 
 ---
+### 3. Minimax algorithm
+
+reference: https://www.youtube.com/watch?v=l-hh51ncgDI  
+posting: https://velog.io/@ljwljy51/MiniMax-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+
+---
+
+### 4. Minimax algorithm
+
+reference: https://www.youtube.com/watch?v=2Yi_Jse_7JQ&t=23s  
+posting: https://velog.io/@ljwljy51/CatBoost-%EC%A0%95%EB%A6%AC
+
+---
 
 updating...
 
