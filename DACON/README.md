@@ -1,2 +1,6 @@
 # DACON
-- 이미 끝난 대회의 공개된 코드를 참고해 공부하기 위함
+## 2022 관광데이터 AI 경진대회
+link: https://dacon.io/competitions/official/235978/overview/description
+### 1. RoBERTa & RegNetY
+reference: https://dacon.io/competitions/official/235978/codeshare/7083?page=1&dtype=recent
+files: 
