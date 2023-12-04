@@ -47,6 +47,52 @@ updating...
 </br>
 </br>
 
+# Paper_Review
+## NLP
+updating...
+
+## Segmentation
+### 1. UNet
+#### U-Net: Convolutional Networks for Biomedical Image Segmentation
+2015 MICCAI  
+posting: https://velog.io/@ljwljy51/UNet-%EA%B0%84%EB%8B%A8-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0
+
+---
+
+updating...
+
+## Anomaly Detection
+### 1. PaDiM
+#### PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization
+2020 ICPR  
+posting: https://velog.io/@ljwljy51/PaDiM  
+
+
+### 2. PatchCore
+#### Towards Total Recall in Industrial Anomaly Detection
+2022 CVPR  
+posting: https://velog.io/@ljwljy51/PatchCore-Paper-Review  
+
+
+---
+
+updating...
+
+## Super-Resolution
+### 1. SRResNet, SRGAN
+#### Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+2017 CVPR  
+posting: https://velog.io/@ljwljy51/SRGAN-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0  
+
+---
+
+updating..
+
+
+</br>
+</br>
+</br>
+
 # ML_Study
 
 ## Postings
@@ -91,6 +137,8 @@ updating...
 ### 1. RoBERTa & RegNetY
 reference: https://dacon.io/competitions/official/235978/codeshare/7083?page=1&dtype=recent  
 files: https://github.com/ljwljy51/ML_DL_Study/tree/main/DACON/2022%EA%B4%80%EA%B4%91%EB%8D%B0%EC%9D%B4%ED%84%B0AI%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/RoBERTa_RegNetY_Tensorflow
+
+---
 
 
 updating...
