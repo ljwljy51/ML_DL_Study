@@ -125,6 +125,14 @@ posting: https://velog.io/@ljwljy51/CatBoost-%EC%A0%95%EB%A6%AC
 
 ---
 
+### 5. Clustering
+#### Clustering process, Hierarchical / K-means Clustering, Clustering evaluation method
+
+reference: https://www.youtube.com/watch?v=8zB-_LrAraw  
+posting: https://velog.io/@ljwljy51/Clustering
+
+
+---
 updating...
 
 </br>
