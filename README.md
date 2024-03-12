@@ -133,6 +133,14 @@ posting: https://velog.io/@ljwljy51/Clustering
 
 
 ---
+
+### 6. Principal Component Analysis (PCA)
+
+reference: https://www.youtube.com/watch?v=FhQm2Tc8Kic&t=30s  
+posting: https://velog.io/@ljwljy51/Principal-Component-Analysis-0x2b4wai#iris-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9%ED%95%9C-pca-%EC%98%88%EC%8B%9C
+
+---
+
 updating...
 
 </br>
