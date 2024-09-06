@@ -141,6 +141,13 @@ posting: https://velog.io/@ljwljy51/Principal-Component-Analysis-0x2b4wai#iris-%
 
 ---
 
+### 7. Shapley Value
+
+reference: https://www.youtube.com/watch?v=f2XqxOny3NA&t=9s  
+posting: https://velog.io/@ljwljy51/Shapley-Value
+
+---
+
 updating...
 
 </br>
