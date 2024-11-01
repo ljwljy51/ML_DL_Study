@@ -47,7 +47,7 @@ updating...
 </br>
 </br>
 
-# Paper_Review
+# DL_Study
 ## NLP
 updating...
 
@@ -83,6 +83,14 @@ updating...
 #### Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 2017 CVPR  
 posting: https://velog.io/@ljwljy51/SRGAN-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0  
+
+---
+updating...
+## Generative model
+### 1. Variational Autoencoder (VAE)
+
+reference: https://www.youtube.com/watch?v=GbCAwVVKaHY&t=2365s  
+posting: https://velog.io/@ljwljy51/VariationalAutoEncoder-VAE
 
 ---
 
@@ -147,6 +155,7 @@ reference: https://www.youtube.com/watch?v=f2XqxOny3NA&t=9s
 posting: https://velog.io/@ljwljy51/Shapley-Value
 
 ---
+
 
 updating...
 
